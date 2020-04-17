@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    
+    
+}
+
+
+body {
+    background-color: black
+  }
+  
+
+  @media only screen and (max-width: 770px) {
+    .container {
+      margin: 0 10%;
+    }
+
+  }
+  

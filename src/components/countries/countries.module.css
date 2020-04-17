@@ -1,0 +1,11 @@
+.txt{
+    color: white;
+    
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px ;
+    box-shadow: 3px 0px 5px 10px white;
+    margin-top:10px ;
+    width: 500px;
+}
